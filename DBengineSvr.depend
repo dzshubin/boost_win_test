@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1452261437 source:/home/ezlife/Project/DBengineSvr/main.cpp
+	<iostream>
+	<functional>
+	<memory>
+	<string>
+	<vector>
+	<boost/asio/io_service.hpp>
+	<boost/asio/buffer.hpp>
+	<boost/asio/write.hpp>
+	<boost/asio/read.hpp>
+	<boost/asio/basic_socket_acceptor.hpp>
+	<boost/asio/ip/tcp.hpp>
+	<boost/asio/streambuf.hpp>
+	<boost/asio/ip/address.hpp>
+	<boost/asio/ip/basic_endpoint.hpp>
+	<boost/archive/text_oarchive.hpp>
+	<boost/archive/text_iarchive.hpp>
+	<mysql_connection.h>
+	<mysql_driver.h>
+	<boost/serialization/access.hpp>
+	<boost/archive/binary_oarchive.hpp>
+	<boost/archive/binary_iarchive.hpp>
+	<cppconn/connection.h>
+	<cppconn/driver.h>
+	<cppconn/exception.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+	<cppconn/resultset.h>
+
